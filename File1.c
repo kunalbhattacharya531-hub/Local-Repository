@@ -1,4 +1,4 @@
-// This program reads a file and converts the text into uppercase characters
+// This code reads a file and converts the text into uppercase characters
 
 #include<stdio.h>
 #include<stdlib.h>
